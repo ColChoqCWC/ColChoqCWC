@@ -5,7 +5,7 @@
 - [Active Directory Lab](https://github.com/ColChoqCWC/Active_Directory_Lab)
 - [Socket Programming](https://github.com/ColChoqCWC/Socket_Programming)
 
-<h2>Software Devlopemnt Porjects</h2>
+<h2>Web Devlopemnt Porjects</h2>
 
 - [Concert Info Website](https://github.com/ColChoqCWC/Concert_Website)
 
