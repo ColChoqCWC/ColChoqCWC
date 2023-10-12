@@ -11,7 +11,7 @@
 
 <h2>Certifications:</h2>
 
-- [Google Cybersecurity Certificate](Link_to_cert)
+- [Google Cybersecurity Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6MTNJZG48PLH/CERTIFICATE_LANDING_PAGE~6MTNJZG48PLH.jpeg)
 
 <h2>LinkedIn<h2>
 
