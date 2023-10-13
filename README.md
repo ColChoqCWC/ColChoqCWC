@@ -7,7 +7,7 @@
 
 <h2>Web Devlopemnt Projects</h2>
 
-<!-- - [Concert Info Website](https://github.com/ColChoqCWC/Concert_Website) -->
+- [Concert Info Website](https://github.com/ColChoqCWC/Concert_Website)
 
 <h2>Certifications:</h2>
 
