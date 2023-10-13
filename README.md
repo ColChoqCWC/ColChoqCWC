@@ -9,6 +9,10 @@
 
 <!--- [Concert Info Website](https://github.com/ColChoqCWC/Concert_Website)-->
 
+<h2>HackTheBox/TryHackMe Writeups:</h2>
+
+<!--- []()-->
+
 <h2>Certifications:</h2>
 
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6MTNJZG48PLH)
