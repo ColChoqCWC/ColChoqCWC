@@ -9,7 +9,7 @@
 
 <!--- [Concert Info Website](https://github.com/ColChoqCWC/Concert_Website)-->
 
-<h2>HackTheBox/TryHackMe Writeups:</h2>
+<h2>Writeups:</h2>
 
 <!--- []()-->
 
