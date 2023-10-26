@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-<!-- - [Active Directory Lab](https://github.com/ColChoqCWC/Active_Directory_Lab) -->
+- [Active Directory Lab](https://github.com/ColChoqCWC/Active_Directory_Lab)
 - [Socket Programming](https://github.com/ColChoqCWC/Socket_Programming)
 
 <!--<h2>Web Devlopemnt Projects</h2> -->
