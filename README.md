@@ -16,6 +16,7 @@
 <h2>Certifications:</h2>
 
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6MTNJZG48PLH)
+- [CompTIA Security +](https://www.credly.com/badges/4d23c75b-2bb1-4737-860b-926d3418bebc/public_url)
 
 <h2>LinkedIn<h2>
 
