@@ -7,7 +7,7 @@
 
 <h2>Web Devlopemnt Projects:</h2>
 
-- [SilverSmart Library](https://github.com/ColChoqCWC/Active_Directory_Lab) (Being Devloped)
+- [SilverSmart Library](https://github.com/morganglis/SilverSmart-Library)(Being Devloped)
 
 <h2>Writeups:</h2>
 
