@@ -5,8 +5,9 @@
 - [Active Directory Lab](https://github.com/ColChoqCWC/Active_Directory_Lab)
 - [Socket Programming](https://github.com/ColChoqCWC/Socket_Programming)
 
-<h2>Web Devlopemnt Projects</h2>
-- [SilverSmart Libary](https://github.com/ColChoqCWC/Socket_Programming)
+<h2>Web Devlopemnt Projects:</h2>
+
+- [SilverSmart Library](https://github.com/ColChoqCWC/Active_Directory_Lab) (Being Devloped)
 
 <h2>Writeups:</h2>
 
