@@ -8,7 +8,7 @@
 
 <h2>Web Devlopemnt Projects:</h2>
 
-- [SilverSmart Library](https://github.com/morganglis/SilverSmart-Library)(Being Devloped)
+- [SilverSmart Library](https://github.com/morganglis/SilverSmart-Library)
 
 <h2>Writeups:</h2>
 
