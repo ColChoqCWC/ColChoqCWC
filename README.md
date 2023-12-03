@@ -12,7 +12,7 @@
 
 <h2>Writeups:</h2>
 
-<!--- []()-->
+- [Advent of Cyber 2023](https://github.com/ColChoqCWC/Windows_Defender_Firewall)
 
 <h2>Certifications:</h2>
 
