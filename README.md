@@ -12,7 +12,7 @@
 
 <h2>Writeups:</h2>
 
-- [Advent of Cyber 2023](https://github.com/ColChoqCWC/Advent_of_Cyber_2023)
+
 
 <h2>Certifications:</h2>
 
