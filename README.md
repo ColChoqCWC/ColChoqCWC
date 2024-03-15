@@ -12,7 +12,7 @@
 
 <h2>Writeups:</h2>
 
-- [HTB Cyber Apocalypse](https://github.com/morganglis/SilverSmart-Library)
+- [HTB Cyber Apocalypse](https://github.com/ColChoqCWC/HTB_Cyber_Apoc_2024)
 
 
 <h2>Certifications:</h2>
