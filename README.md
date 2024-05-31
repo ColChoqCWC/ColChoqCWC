@@ -23,6 +23,7 @@
 <h2>Certificates:</h2>
 
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6MTNJZG48PLH)
+- [Google IT Support Professional Certificate]()
 - [TryHackMe]()
 
 <h2>LinkedIn<h2>
