@@ -17,12 +17,15 @@
 
 <h2>Certifications:</h2>
 
-- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6MTNJZG48PLH)
 - [CompTIA Security +](https://www.credly.com/badges/4d23c75b-2bb1-4737-860b-926d3418bebc/public_url)
+
+<h2>Certificates:</h2>
+
+- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6MTNJZG48PLH)
 
 <h2>LinkedIn<h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Colin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/colin-choquette
 
