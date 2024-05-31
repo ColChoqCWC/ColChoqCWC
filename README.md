@@ -23,6 +23,8 @@
 <h2>Certificates:</h2>
 
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6MTNJZG48PLH)
+- [TryHackMe]()
+- [NICE Challenges]()
 
 <h2>LinkedIn<h2>
 
