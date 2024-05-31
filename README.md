@@ -9,6 +9,7 @@
 <h2>Web Devlopemnt Projects:</h2>
 
 - [SilverSmart Library](https://github.com/morganglis/SilverSmart-Library)
+- [Wilmington Web Scraper](https://github.com/ColChoqCWC/UNCW_WebScraper)
 
 <h2>Writeups:</h2>
 
