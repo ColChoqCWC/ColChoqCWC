@@ -19,6 +19,10 @@
 <h2>Certifications:</h2>
 
 - [CompTIA Security +](https://www.credly.com/badges/4d23c75b-2bb1-4737-860b-926d3418bebc/public_url)
+- [Cisco CCNA]()
+- [CompTIA CySa +]()
+- [HTB CDSA]()
+- [HTB CPTS]()
 
 <h2>Certificates:</h2>
 
