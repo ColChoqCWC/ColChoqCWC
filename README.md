@@ -14,7 +14,7 @@
 <h2>Writeups:</h2>
 
 - [HTB Cyber Apocalypse](https://github.com/ColChoqCWC/HTB_Cyber_Apoc_2024)
-
+- [NICE Challenges]()
 
 <h2>Certifications:</h2>
 
@@ -24,7 +24,6 @@
 
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6MTNJZG48PLH)
 - [TryHackMe]()
-- [NICE Challenges]()
 
 <h2>LinkedIn<h2>
 
