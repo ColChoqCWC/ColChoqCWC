@@ -14,7 +14,7 @@
 <h2>Writeups:</h2>
 
 - [HTB Cyber Apocalypse](https://github.com/ColChoqCWC/HTB_Cyber_Apoc_2024)
-- [NICE Challenges]()
+- [NICE Challenges](https://github.com/ColChoqCWC/NICE_Challenges)
 
 <h2>Certifications:</h2>
 
