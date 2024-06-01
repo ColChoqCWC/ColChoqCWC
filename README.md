@@ -29,7 +29,7 @@
 <h2>Certificates:</h2>
 
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6MTNJZG48PLH)
-- [TryHackMe]()
+- [TryHackMe](https://github.com/ColChoqCWC/TryHackMe_Completions)
 <!--- [Google IT Support Professional Certificate]()
 - [Microsoft Cybersecurity Analyst Professional Certificate]()-->
 
