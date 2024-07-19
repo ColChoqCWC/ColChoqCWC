@@ -15,6 +15,7 @@
 
 - [HTB Cyber Apocalypse](https://github.com/ColChoqCWC/HTB_Cyber_Apoc_2024)
 - [NICE Challenges](https://github.com/ColChoqCWC/NICE_Challenges)
+- [Hack The Box Machines]()
 
 <h2>Certifications:</h2>
 
