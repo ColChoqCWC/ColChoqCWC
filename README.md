@@ -31,8 +31,8 @@
 
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6MTNJZG48PLH)
 - [TryHackMe](https://github.com/ColChoqCWC/TryHackMe_Completions)
-<!--- [Google IT Support Professional Certificate]()
-- [Microsoft Cybersecurity Analyst Professional Certificate]()-->
+- [Google IT Support Professional Certificate](https://coursera.org/share/4ef70f3c7c8101c38c1a63fe2a2f4e40)
+  <!--[Microsoft Cybersecurity Analyst Professional Certificate]()-->
 
 <h2>LinkedIn<h2>
 
