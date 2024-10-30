@@ -3,12 +3,12 @@
 <h2>Cybersecurity Projects:</h2>
 
 - [Active Directory Lab](https://github.com/ColChoqCWC/Active_Directory_Lab)
-- [Socket Programming](https://github.com/ColChoqCWC/Socket_Programming)
 - [Windows Firewall and Defender Project](https://github.com/ColChoqCWC/Windows_Defender_Firewall)
 
-<h2>Web Devlopemnt Projects:</h2>
+<h2>Coding Projects:</h2>
 
 - [SilverSmart Library](https://github.com/morganglis/SilverSmart-Library)
+- [Socket Programming](https://github.com/ColChoqCWC/Socket_Programming)
 - [Wilmington Web Scraper](https://github.com/ColChoqCWC/UNCW_WebScraper)
 
 <h2>Writeups:</h2>
